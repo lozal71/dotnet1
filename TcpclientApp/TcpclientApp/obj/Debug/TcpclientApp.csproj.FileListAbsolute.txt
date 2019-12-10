@@ -1,0 +1,6 @@
+D:\Student_L\git\dotnet\TcpclientApp\TcpclientApp\bin\Debug\TcpclientApp.exe.config
+D:\Student_L\git\dotnet\TcpclientApp\TcpclientApp\bin\Debug\TcpclientApp.exe
+D:\Student_L\git\dotnet\TcpclientApp\TcpclientApp\bin\Debug\TcpclientApp.pdb
+D:\Student_L\git\dotnet\TcpclientApp\TcpclientApp\obj\Debug\TcpclientApp.csprojAssemblyReference.cache
+D:\Student_L\git\dotnet\TcpclientApp\TcpclientApp\obj\Debug\TcpclientApp.exe
+D:\Student_L\git\dotnet\TcpclientApp\TcpclientApp\obj\Debug\TcpclientApp.pdb

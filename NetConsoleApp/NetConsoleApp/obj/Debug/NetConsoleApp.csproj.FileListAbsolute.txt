@@ -1,0 +1,6 @@
+D:\Student_L\git\dotnet\NetConsoleApp\NetConsoleApp\bin\Debug\NetConsoleApp.exe.config
+D:\Student_L\git\dotnet\NetConsoleApp\NetConsoleApp\bin\Debug\NetConsoleApp.exe
+D:\Student_L\git\dotnet\NetConsoleApp\NetConsoleApp\bin\Debug\NetConsoleApp.pdb
+D:\Student_L\git\dotnet\NetConsoleApp\NetConsoleApp\obj\Debug\NetConsoleApp.exe
+D:\Student_L\git\dotnet\NetConsoleApp\NetConsoleApp\obj\Debug\NetConsoleApp.pdb
+D:\Student_L\git\dotnet\NetConsoleApp\NetConsoleApp\obj\Debug\NetConsoleApp.csprojAssemblyReference.cache

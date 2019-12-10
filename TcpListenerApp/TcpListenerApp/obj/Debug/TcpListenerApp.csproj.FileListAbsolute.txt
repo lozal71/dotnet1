@@ -1,0 +1,6 @@
+D:\Student_L\git\dotnet\TcpListenerApp\TcpListenerApp\bin\Debug\TcpListenerApp.exe.config
+D:\Student_L\git\dotnet\TcpListenerApp\TcpListenerApp\bin\Debug\TcpListenerApp.exe
+D:\Student_L\git\dotnet\TcpListenerApp\TcpListenerApp\bin\Debug\TcpListenerApp.pdb
+D:\Student_L\git\dotnet\TcpListenerApp\TcpListenerApp\obj\Debug\TcpListenerApp.csprojAssemblyReference.cache
+D:\Student_L\git\dotnet\TcpListenerApp\TcpListenerApp\obj\Debug\TcpListenerApp.exe
+D:\Student_L\git\dotnet\TcpListenerApp\TcpListenerApp\obj\Debug\TcpListenerApp.pdb

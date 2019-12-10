@@ -1,0 +1,6 @@
+D:\Student_L\git\dotnet\FtpConsoleclient\FtpConsoleclient\bin\Debug\FtpConsoleclient.exe.config
+D:\Student_L\git\dotnet\FtpConsoleclient\FtpConsoleclient\bin\Debug\FtpConsoleclient.exe
+D:\Student_L\git\dotnet\FtpConsoleclient\FtpConsoleclient\bin\Debug\FtpConsoleclient.pdb
+D:\Student_L\git\dotnet\FtpConsoleclient\FtpConsoleclient\obj\Debug\FtpConsoleclient.csprojAssemblyReference.cache
+D:\Student_L\git\dotnet\FtpConsoleclient\FtpConsoleclient\obj\Debug\FtpConsoleclient.exe
+D:\Student_L\git\dotnet\FtpConsoleclient\FtpConsoleclient\obj\Debug\FtpConsoleclient.pdb
