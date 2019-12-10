@@ -1,1 +1,1 @@
-dotnet1
+dotnet
